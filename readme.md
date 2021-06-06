@@ -8,7 +8,7 @@
 
 <ul>
 <li>🧐 I am currently learning about <strong>cloud architectures</strong>.</li>
-<li>👨‍💻 Most of my projects are available on <a href="https://github.com/inchara-rao">Github</a>.</li>
+
 <li>💬 Ping me about <strong>Python development and django</strong>.</li>
 </ul>
 <br/>
